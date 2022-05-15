@@ -1,3 +1,6 @@
+
+
+//Problem 1 ->Reverse the vector /string
 #include<bits/stdc++.h>
 using namespace std;
 //Use reverse function
